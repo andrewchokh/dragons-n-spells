@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "life_crystals:life_crystal_shard"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    },
+    {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+  ],
+  "result": {
+    "item": "bosses_of_mass_destruction:brimstone_nectar"
+  }
+}

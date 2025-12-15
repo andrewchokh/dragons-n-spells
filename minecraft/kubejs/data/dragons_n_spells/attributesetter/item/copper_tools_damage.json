@@ -1,0 +1,42 @@
+{
+  "iceandfire:copper_sword": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "uuid": "27b9bea1-a079-45f4-baec-f6b7506418d1",
+      "value": 1.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:copper_pickaxe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "uuid": "27b9bea1-a079-45f4-baec-f6b7506418d1",
+      "value": 1.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:copper_axe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "uuid": "27b9bea1-a079-45f4-baec-f6b7506418d1",
+      "value": 1.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:copper_shovel": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "uuid": "27b9bea1-a079-45f4-baec-f6b7506418d1",
+      "value": 1.5,
+      "operation": "ADDITION"
+    }
+  ],
+  "iceandfire:copper_hoe": [
+    {
+      "attribute": "minecraft:generic.attack_damage",
+      "uuid": "27b9bea1-a079-45f4-baec-f6b7506418d1",
+      "value": 1.5,
+      "operation": "ADDITION"
+    }
+  ]
+}

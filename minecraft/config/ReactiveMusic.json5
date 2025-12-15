@@ -1,0 +1,16 @@
+{
+	musicDelayLength2: "SONGPACK_DEFAULT",
+	musicSwitchSpeed2: "SONGPACK_DEFAULT",
+	debugModeEnabled: false,
+	loadedUserSongpack: "Medieval Minecraft",
+	blacklistedDimensions: [],
+	savedHomePositions: {
+		saved: {
+			f_82479_: -627.5,
+			f_82480_: 66.5625,
+			f_82481_: 860.5
+		}
+	},
+	soundsMuteMusic: [],
+	hasForcedInitialVolume: true
+}

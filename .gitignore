@@ -1,0 +1,16 @@
+# Prism Launcher
+.packignore
+mmc-pack.json
+instance.cfg
+
+minecraft/mods/.index/
+
+# Minecraft
+minecraft/*
+minecraft/mods/.connector/
+
+!config/
+!defaultconfigs/
+!mods/
+!kubejs/
+!global_packs/

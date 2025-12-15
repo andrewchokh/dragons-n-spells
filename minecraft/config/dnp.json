@@ -1,0 +1,8 @@
+{
+  "blacklist": [],
+  "damageThreshold": 10.0,
+  "enableDnp": true,
+  "healing": true,
+  "particleRadius": 32,
+  "selfParticles": true
+}
